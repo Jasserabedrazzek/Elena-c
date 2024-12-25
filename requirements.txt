@@ -1,0 +1,8 @@
+symboles
+type_
+remove_spaces
+analyze
+CodeC
+lines
+generate_code
+newInput
