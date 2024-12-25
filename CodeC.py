@@ -77,7 +77,7 @@ class Function:
         except Exception as e:
             self.error = e;
 class Procedure:
-    def __init__(self,Input):
+    def __init__(self,Input): 
         self.newInput = '';
         for i in range(len(Input)):
             if Symbol(Input[i]):
